@@ -1,4 +1,4 @@
-A simple desktop weather appl built with Python that allows users to search for current weather information by city name. It fetches real-time weather data from the API.
+A simple desktop weather app built with Python that allows users to search for current weather information by city name. It fetches real-time weather data from the API.
 
 Features:
 
